@@ -17,9 +17,9 @@ let me = tap.custom.media in
     ],
     [ # Layer 1
       kc.F10,          kc.F11,       kc.F12,          me.MUTE,
-      kc.KP_F7,        kc.KP_F8,     kc.KP_F9,        me.VOLU,
-      kc.KP_F4,        kc.KP_F5,     kc.KP_F6,        me.VOLD,
-      kc.KP_F1,        kc.KP_F2,     kc.KP_F3,        kc.KP_EQUAL,
+      kc.F7,           kc.F8,        kc.F9,           me.VOLU,
+      kc.F4,           kc.F5,        kc.F6,           me.VOLD,
+      kc.F1,           kc.F2,        kc.F3,           kc.KP_EQUAL,
       tap.layer.TG 0,  kc.ESC,       kc.BACKSPACE,    hold.reg.layer 0,
 
     ],
