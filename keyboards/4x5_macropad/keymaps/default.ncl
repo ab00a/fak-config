@@ -20,7 +20,7 @@ let me = tap.custom.media in
       kc.F7,           kc.F8,        kc.F9,           me.VOLU,
       kc.F4,           kc.F5,        kc.F6,           me.VOLD,
       kc.F1,           kc.F2,        kc.F3,           kc.KP_EQUAL,
-      tap.layer.TG 0,  kc.ESC,       kc.BACKSPACE,    hold.reg.layer 0,
+      tap.layer.TG 1,  kc.ESC,       kc.BACKSPACE,    hold.reg.layer 0,
 
     ],
   ]
